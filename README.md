@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Mhlabathi
-- 👀 I’m interested in Web Development and Blockchain
-- 🌱 I’m currently learning TOP
-- 💞️ I’m looking to collaborate on I'll let you know in the near future 
-- 📫 How to reach me; email: banelendlovu34@gmail.com
+- 👋 Hi, I’m Banele Luthuli
+- 👀 I’m interested in Software Development and Blockchain. (Fitness too).
+- 🌱 I’m currently learning The Odin Poject
+- 💞️ I’m looking to collaborate on Anything you might think I can be of help with given I'm also interested, so shout-out and let's talk!
+- 📫 How to reach me? email: banelendlovu34@gmail.com (Please note on the email header "GitHub-To-Collaborate" for better chances of me noticing your email)
 
 <!---
 Mhlabathi/Mhlabathi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
